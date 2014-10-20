@@ -1,0 +1,15 @@
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bin\Debug\ReverseMap\resources.pri
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bin\Debug\AppxManifest.xml
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bin\Debug\Speakers.build.appxrecipe
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\priconfig.xml
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\priconfig.xml.intermediate
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\layout.resfiles
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\layout.resfiles.intermediate
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\resources.resfiles
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\resources.resfiles.intermediate
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\pri.resfiles
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\pri.resfiles.intermediate
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\qualifiers.txt
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\qualifiers.txt.intermediate
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\baynera\Documents\GitHub\Windows8.1\Speakers\Speakers\bld\Debug\ProjectArchitectures.txt
